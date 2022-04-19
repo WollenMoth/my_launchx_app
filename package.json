@@ -4,7 +4,8 @@
   "description": "Mi primer proyecto con JS",
   "main": "index.js",
   "scripts": {
-    "test": "jest"
+    "test": "jest",
+    "start": "node index.js"
   },
   "author": "wollenmoth",
   "license": "ISC",
